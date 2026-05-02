@@ -1,0 +1,7 @@
+interface:
+  display_name: "Installable Skill Converter"
+  short_description: "Convert an existing skill into an installable agent skill."
+  icon_small: "./assets/installable-skill-converter.png"
+  icon_large: "./assets/installable-skill-converter.png"
+  brand_color: "#FF8A00"
+  default_prompt: "Use $installable-skill-converter to convert a skill into an installable skill package."
